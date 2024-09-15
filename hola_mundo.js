@@ -1,2 +1,2 @@
 const username=process.env.USERNAME;
-console.log(`Hola ${USERNAME} mundo`)
+console.log(`Hola ${username} mundo`)
